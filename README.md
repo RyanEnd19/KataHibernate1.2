@@ -1,0 +1,1 @@
+# KataHibernate1.2
